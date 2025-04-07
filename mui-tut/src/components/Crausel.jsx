@@ -8,17 +8,17 @@ const slides = [
   {
     title: "Welcome to Our Platform",
     description: "Build faster, smarter, and better. Join us and take your skills to the next level.",
-    bg: "https://img.freepik.com/free-photo/woman-choosing-phone-technology-store_1303-31328.jpg?t=st=1744014687~exp=1744018287~hmac=94f33ee956b48c3058af19cfb7d16e6d58c0a8a5d0902138ae9147cb364b6f07&w=1380",
+    bg: "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-cool-new-mobile-phone-promotion-purple-banner-image_183067.jpg",
   },
   {
     title: "Create Amazing Projects",
     description: "Turn your ideas into reality with powerful tools and a supportive community.",
-    bg: "https://img.freepik.com/free-photo/seller-man-mobile-phone-professional-consultant-tech-store-shop-check-new-smart-watches_627829-4979.jpg?t=st=1744014842~exp=1744018442~hmac=1f61a44766dccc98f6dc0675965cbe030d14c23f3cc1736e3eac325a69e1b61f&w=1380",
+    bg: "https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-vector-flat-gradient-mobile-phone-technology-banner-background-image_260312.jpg",
   },
   {
     title: "Join the Future of Tech",
     description: "Get ahead in your career by learning from the best and staying updated.",
-    bg: "https://img.freepik.com/free-photo/woman-choosing-earphones-store_1303-31280.jpg?t=st=1744014744~exp=1744018344~hmac=dd1d7407da853dd85449fc465fb9188b99ae4b2289c5721f44fd3203a5c3a0d8&w=1380",
+    bg: "https://png.pngtree.com/thumb_back/fh260/background/20220215/pngtree-blue-simple-flat-information-security-banner-background-image_926646.jpg",
   },
 ];
 
